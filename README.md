@@ -52,6 +52,10 @@ THIN:RET
 END
 
 ```
+MANNUAL CALULATIONS
+
+<img width="755" height="725" alt="Screenshot 2026-05-21 110436" src="https://github.com/user-attachments/assets/2cfdd51a-d22f-41cd-bdf4-8391f0fe67c2" />
+
 OUTPUT
 
 (Keil output screenshot can be inserted here)
